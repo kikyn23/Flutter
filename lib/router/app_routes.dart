@@ -55,6 +55,12 @@ class AppRoutes {
       name: 'Text inputs',
       screen: const InputsScreen(),
     ),
+    MenuOption(
+      route: 'slider',
+      icon: Icons.slideshow,
+      name: 'Slider and Checks',
+      screen: const SliderScreen(),
+    ),
   ];
 
   static Map<String, Widget Function(BuildContext)> gerAppRoutes() {
