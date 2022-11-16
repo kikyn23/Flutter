@@ -1,4 +1,7 @@
-# fl_components
+This is the code of my Flutter's courses in Udemy, my tech is Fernando Herrera
+
+
+This is the code base of my proyect fl_components
 
 A new Flutter project.
 
